@@ -22,4 +22,6 @@
  */
 module be.yildizgames.module.webapp {
 
+    exports be.yildizgames.module.webapp;
+
 }

@@ -2,5 +2,5 @@ package be.yildizgames.module.webapp;
 
 public interface WebApplication {
 
-    WebApplication start();
+    WebApplication start(String[] args);
 }

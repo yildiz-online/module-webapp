@@ -14,7 +14,7 @@
   </parent>
 
   <properties>
-    <dependency.spring-boot.version>2.1.7.RELEASE</dependency.spring-boot.version>
+    <dependency.spring-boot.version>2.1.8.RELEASE</dependency.spring-boot.version>
   </properties>
 
   <dependencies>

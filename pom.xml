@@ -141,7 +141,7 @@
     <dependency>
       <groupId>com.github.paulcwarren</groupId>
       <artifactId>spring-content-rest-boot-starter</artifactId>
-      <version>0.10.0</version>
+      <version>0.11.0</version>
       <exclusions>
         <exclusion>
           <groupId>org.atteo</groupId>
@@ -200,7 +200,7 @@
     <dependency>
       <groupId>com.github.paulcwarren</groupId>
       <artifactId>content-fs-spring-boot-starter</artifactId>
-      <version>0.10.0</version>
+      <version>0.11.0</version>
       <exclusions>
         <exclusion>
           <groupId>org.springframework</groupId>

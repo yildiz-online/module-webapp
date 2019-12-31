@@ -16,7 +16,7 @@
 
   <properties>
     <java.version>11</java.version>
-    <dependency.spring-boot.version>2.2.0.RELEASE</dependency.spring-boot.version>
+    <dependency.spring-boot.version>2.2.2.RELEASE</dependency.spring-boot.version>
   </properties>
 
   <dependencies>
@@ -50,7 +50,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-tx</artifactId>
-      <version>5.2.0.RELEASE</version>
+      <version>5.2.2.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.data</groupId>

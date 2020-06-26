@@ -17,7 +17,7 @@
   <properties>
     <java.version>11</java.version>
     <dependency.spring-boot.version>2.3.1.RELEASE</dependency.spring-boot.version>
-    <dependency.jackson.version>2.11.0</dependency.jackson.version>
+    <dependency.jackson.version>2.11.1</dependency.jackson.version>
   </properties>
 
   <dependencies>
